@@ -1,0 +1,19 @@
+ 1. impiegati 
+        1.1 Nome(stringa) 
+        1.2 Cognome (stringa) 
+        1.3 Data di nascita (int ) 
+        1.4 Dipartimento di  afferenza (Vedi Dipartimento )
+                1.4.1 data di afferenza
+        1.5 Stipendio Attuale (reale >0) 
+       
+
+2. Dipartimento 
+        2.1 Nome (stringa ) 
+        2.2 telefono (int) 
+        2.3 Impiegati (v.1) 
+        2.4 direttore (un impiegato, v.1 , esattamente uno 
+
+3 Progetti Aziendali
+        3.1 nome (Stringa)
+        3.2 bugdt ( reali >0)
+        3.3 impiegati coinvolti (v.1)
